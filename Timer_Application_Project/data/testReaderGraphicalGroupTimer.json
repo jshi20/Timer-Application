@@ -1,0 +1,52 @@
+{
+    "allTimers": [
+        {
+            "timer": 1000,
+            "seconds": 1,
+            "isRunning": false,
+            "origTime": 1,
+            "stringLabel": "BasicTimer Title: bt1   Seconds: 1   Description: desc for bt1",
+            "description": "desc for bt1",
+            "title": "bt1",
+            "isFinished": false
+        },
+        {
+            "timer": 1000,
+            "seconds": 2,
+            "isRunning": false,
+            "origTime": 2,
+            "stringLabel": "BasicTimer Title: bt2   Seconds: 2   Description: desc for bt2",
+            "description": "desc for bt2",
+            "title": "bt2",
+            "isFinished": false
+        },
+        {
+            "description": "desc for tg1",
+            "title": "tg1",
+            "groupStringLabel": "GroupTimer Title: tg1   Description: desc for tg1   Includes: bt1, bt2, ",
+            "allBasicTimes": [
+                {
+                    "timer": 1000,
+                    "seconds": 1,
+                    "isRunning": false,
+                    "origTime": 1,
+                    "stringLabel": "BasicTimer Title: bt1   Seconds: 1   Description: desc for bt1",
+                    "description": "desc for bt1",
+                    "title": "bt1",
+                    "isFinished": false
+                },
+                {
+                    "timer": 1000,
+                    "seconds": 2,
+                    "isRunning": false,
+                    "origTime": 2,
+                    "stringLabel": "BasicTimer Title: bt2   Seconds: 2   Description: desc for bt2",
+                    "description": "desc for bt2",
+                    "title": "bt2",
+                    "isFinished": false
+                }
+            ]
+        }
+    ],
+    "name": "All Timers"
+}

@@ -1,0 +1,47 @@
+{
+  "allTimers": [
+    {
+      "description": "desc for tg1",
+      "title": "tg1",
+      "allBasicTimes": [
+        {
+          "timer": 1000,
+          "seconds": 5,
+          "isRunning": false,
+          "origTime": 5,
+          "description": "desc for test1",
+          "title": "test1",
+          "isFinished": false
+        },
+        {
+          "timer": 1000,
+          "seconds": 2,
+          "isRunning": false,
+          "origTime": 2,
+          "description": "desc for test2",
+          "title": "test2",
+          "isFinished": false
+        }
+      ]
+    },
+    {
+      "timer": 1000,
+      "seconds": 5,
+      "isRunning": false,
+      "origTime": 5,
+      "description": "desc for test1",
+      "title": "test1",
+      "isFinished": false
+    },
+    {
+      "timer": 1000,
+      "seconds": 2,
+      "isRunning": false,
+      "origTime": 2,
+      "description": "desc for test2",
+      "title": "test2",
+      "isFinished": false
+    }
+  ],
+  "name": "All Timers"
+}

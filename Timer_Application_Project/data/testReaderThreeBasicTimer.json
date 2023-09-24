@@ -1,0 +1,32 @@
+{
+  "allTimers": [
+    {
+      "timer": 1000,
+      "seconds": 10,
+      "isRunning": false,
+      "origTime": 10,
+      "description": "desc for test1",
+      "title": "test1",
+      "isFinished": false
+    },
+    {
+      "timer": 1000,
+      "seconds": 2,
+      "isRunning": false,
+      "origTime": 2,
+      "description": "desc for test2",
+      "title": "test2",
+      "isFinished": false
+    },
+    {
+      "timer": 1000,
+      "seconds": 3,
+      "isRunning": false,
+      "origTime": 3,
+      "description": "desc for test3",
+      "title": "test3",
+      "isFinished": false
+    }
+  ],
+  "name": "All Timers"
+}

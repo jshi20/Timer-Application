@@ -1,0 +1,30 @@
+{
+    "allTimers": [
+        {
+            "description": "asd",
+            "title": "asd",
+            "groupStringLabel": "GroupTimer Title: asd   Description: asd   Includes: asd, ",
+            "allBasicTimes": [{
+                "timer": 1000,
+                "seconds": 6,
+                "isRunning": true,
+                "origTime": 10,
+                "stringLabel": "BasicTimer Title: asd   Seconds: 10   Description: asd",
+                "description": "asd",
+                "title": "asd",
+                "isFinished": false
+            }]
+        },
+        {
+            "timer": 1000,
+            "seconds": 6,
+            "isRunning": true,
+            "origTime": 10,
+            "stringLabel": "BasicTimer Title: asd   Seconds: 10   Description: asd",
+            "description": "asd",
+            "title": "asd",
+            "isFinished": false
+        }
+    ],
+    "name": "All Timers"
+}

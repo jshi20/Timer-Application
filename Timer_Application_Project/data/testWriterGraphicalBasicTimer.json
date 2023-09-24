@@ -1,0 +1,13 @@
+{
+    "allTimers": [{
+        "timer": 1000,
+        "seconds": 1,
+        "isRunning": false,
+        "origTime": 1,
+        "stringLabel": "BasicTimer Title: graphicalTimer1   Seconds: 1   Description: desc for graphicalTimer1",
+        "description": "desc for graphicalTimer1",
+        "title": "graphicalTimer1",
+        "isFinished": false
+    }],
+    "name": "All Timers"
+}
